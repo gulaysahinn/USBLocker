@@ -40,7 +40,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Engelle</string>
+     <string>Engelleme</string>
     </property>
    </widget>
    <widget class="QListWidget" name="usbListWidget">
